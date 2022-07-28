@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-personal-website/static/css/main.609c2437.css",
+    "main.js": "/my-personal-website/static/js/main.6ceb7c14.js",
+    "static/media/netflix.png": "/my-personal-website/static/media/netflix.aa6a0c52341a1f3c1518.png",
+    "static/media/fur.png": "/my-personal-website/static/media/fur.25344a4769393a076915.png",
+    "static/media/orion.png": "/my-personal-website/static/media/orion.c68e53bdac21b376bbe4.png",
+    "static/media/erkinish.png": "/my-personal-website/static/media/erkinish.e0cc791757b215644391.png",
+    "static/media/github.png": "/my-personal-website/static/media/github.f850ada39308efa507db.png",
+    "static/media/resume.pdf": "/my-personal-website/static/media/resume.4c8c0d67112527c04db7.pdf",
+    "static/media/tipcalculator.png": "/my-personal-website/static/media/tipcalculator.325c96bf96dd4a788d9e.png",
+    "static/media/tailwind.jpg": "/my-personal-website/static/media/tailwind.2f69817385fbd483f9e2.jpg",
+    "static/media/css.png": "/my-personal-website/static/media/css.d187f8a9327b759a00f2.png",
+    "static/media/react.png": "/my-personal-website/static/media/react.c4d87ba5d888cd977f0c.png",
+    "index.html": "/my-personal-website/index.html",
+    "main.609c2437.css.map": "/my-personal-website/static/css/main.609c2437.css.map",
+    "main.6ceb7c14.js.map": "/my-personal-website/static/js/main.6ceb7c14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.609c2437.css",
+    "static/js/main.6ceb7c14.js"
+  ]
+}
